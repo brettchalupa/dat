@@ -9,7 +9,7 @@ import (
 
 func main() {
 	app := cli.NewApp()
-	app.Name = "tad"
+	app.Name = "dat"
 	app.Usage = "print the date and time"
 	app.Action = func(c *cli.Context) {
 		const layout = "Jan 2, 2006 at 3:04pm (MST)"
