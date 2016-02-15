@@ -5,7 +5,7 @@ A simple Go program to print the date and time.
 ## Installation
 
 Use `go install github.com/brettchalupa/dat` to fetch the program.
-This [Go](https://golang.org/) to be installed and configured.
+[Go](https://golang.org/) must be installed and configured.
 
 ## Usage
 
